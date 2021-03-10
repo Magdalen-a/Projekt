@@ -1,3 +1,7 @@
 # Quiz
 
-Prostu Quiz z uzyciem JS. 
+Prosty Quiz z uzyciem JS. 
+
+
+https://magdalen-a.github.io/Quiz/
+
